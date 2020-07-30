@@ -1,0 +1,50 @@
+h1 { 
+    color: #0000ff;
+}
+
+body {
+    background-color: #19b5fe;
+}
+
+.header {
+    background-color: #00ffff;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.item1 {
+    background-color: #ffa500;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: "center";
+}
+
+.item2 {
+    background-color:#ff0000;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: "center";
+}
+
+.item3 {
+    background-color:#ee82ee;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: "center";
+}
+
+.item4 {
+    background-color:#0000ff;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: "center";
+}
+
+.footer {
+    background-color:#00ff00;
+    display: flex;
+    justify-content: flex-end;
+    text-align: "center";
+}
+
+
